@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning web application that predicts the likelihood of heart disease based on clinical and medical data. This project uses a trained **Logistic Regression** model and is deployed as an interactive web interface using **Streamlit**.
 
-🔗 **[Live Demo Link](https://heart-disease-analyzer-cbh4xeraurpw7cjlfsmbfb.streamlit.app/)**
+🔗 **[Link](https://heart-disease-analyzer-cbh4xeraurpw7cjlfsmbfb.streamlit.app/)**
 
 ---
 
@@ -36,7 +36,7 @@ Follow these steps to set up and run the application on your local machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com[YOUR_USERNAME]/heart-disease-predictor.git
+git clone https://github.com/Purva-Maurya/heart-disease-predictor.git
 cd heart-disease-predictor
 ```
 
